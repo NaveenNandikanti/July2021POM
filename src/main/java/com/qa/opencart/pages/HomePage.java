@@ -8,5 +8,7 @@ public class HomePage {
 	
 	public void myHomePage() {
 		System.out.println("This is user specific home page");
+		System.out.println("This is user specific home page");
+
 	}
 }
